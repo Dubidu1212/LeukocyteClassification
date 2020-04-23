@@ -20,4 +20,9 @@ A possible and very reasonable addition to the project would be to move from ima
 ## Conclusion
 In the end I managed to build a neural network that can accurately classify leukocytes during validation. The accuracy under real life conditions remains to be evaluated. Because the phone adaptor is already done, and only minor additions must be made to the app I now only have to focus on optimizing the network. If I manage to do this, this could be a great start for machine learning assisted biology education and remote medicine.
 
+# Links
+The official website of Swiss Youth in Science:
+https://sjf.ch/
+
+
 # This website is incomplete and still "work in progress"
